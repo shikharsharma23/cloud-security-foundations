@@ -1,4 +1,4 @@
-ConfigRuleName: restricted-ssh
+ConfigRuleName: org-restricted-ssh
 Description: Checks whether security groups allow unrestricted SSH access
 Scope:
   ComplianceResourceTypes:
