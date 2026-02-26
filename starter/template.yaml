@@ -6,5 +6,5 @@ Scope:
 Source:
   Owner: AWS
   SourceIdentifier: INCOMING_SSH_DISABLED
-InputParameters: {}
+InputParameters: "{}"
 MaximumExecutionFrequency: TwentyFour_Hours
